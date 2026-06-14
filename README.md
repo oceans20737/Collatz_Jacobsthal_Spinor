@@ -1,8 +1,7 @@
 # **Reconstruction of the Collatz Mapping via Jacobsthal-Normalized Spinor Representation**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20685085.svg)](https://doi.org/10.5281/zenodo.20685085)
-
 Hiroshi Harada — June 14, 2026  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20685085.svg)](https://doi.org/10.5281/zenodo.20685085)
 
 ## **Overview**
 This project redefines the transition of odd nuclei in the Collatz conjecture ($3n+1$ problem), moving beyond the conventional procedural operations of “multiply by 3 and add 1, then divide by $2^c$,” and reformulating it as a **linear transition of Jacobsthal-normalized two-component discrete spinors (J-spinors)**.
