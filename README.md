@@ -1,5 +1,7 @@
 # **Reconstruction of the Collatz Mapping via Jacobsthal-Normalized Spinor Representation**
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20685085.svg)](https://doi.org/10.5281/zenodo.20685085)
+
 Hiroshi Harada — June 14, 2026  
 
 ## **Overview**
